@@ -1,5 +1,6 @@
 # usefull-resources
 Collection of different resources
 
-# color picker
+
+_color-picker_  
 https://github.com/mdbassit/Coloris/blob/main/src/coloris.js#L787
