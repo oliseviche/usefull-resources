@@ -21,5 +21,5 @@ https://simonschreibt.de/gat/renderhell/
 _hurfbuzz text rendering examples and sourcecode_  
 https://harfbuzz-world.cc/#gpu
 
-_Примеры создания 2д рендерера_
+_Примеры создания 2д рендерера_  
 https://antv.vision/infinite-canvas-tutorial/guide/lesson-008
