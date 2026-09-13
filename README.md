@@ -23,3 +23,9 @@ https://harfbuzz-world.cc/#gpu
 
 _Примеры создания 2д рендерера_  
 https://antv.vision/infinite-canvas-tutorial/guide/lesson-008
+
+_Обертка для работы с WEBGL_  
+https://www.npmjs.com/package/regl
+
+_Генерация SDF из SVG контуров_  
+https://www.npmjs.com/package/svg-path-sdf?activeTab=readme
