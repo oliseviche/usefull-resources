@@ -30,5 +30,5 @@ https://www.npmjs.com/package/regl
 _Генерация SDF из SVG контуров_  
 https://www.npmjs.com/package/svg-path-sdf?activeTab=readme
 
-_Про кастомные доменные типы CRDT (деревья, снапшотинг и тп)_
+_Про кастомные доменные типы CRDT (деревья, снапшотинг и тп)_  
 https://madebyevan.com/algos/
